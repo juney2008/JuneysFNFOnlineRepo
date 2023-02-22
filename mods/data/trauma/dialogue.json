@@ -1,0 +1,84 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "Alright, we're finished with your song. Can I go now?",
+			"boxState": "normal",
+			"portrait": "kaidialogue",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "pissed",
+			"text": "Beep bop bep!",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "...Huh?",
+			"boxState": "normal",
+			"portrait": "kaidialogue",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "He wants you to keep going.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "Look, I'm not in the mood. One song's enough for me.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "kaidialogue"
+		},
+		{
+			"expression": "talk",
+			"text": "Bap bop",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "pissed",
+			"text": "...You're real persistent, aren't you?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "kaidialogue"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "coolswag"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "kaidialogue",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "(I don't know why, but that girl sitting on the speakers looks oddly familiar to me. I just can't put my finger on it...)"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "kaidialogue",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "(It's almost like i've seen her before...)"
+		}
+	]
+}

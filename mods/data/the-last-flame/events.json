@@ -1,0 +1,348 @@
+{
+	"song": {
+		"events": [
+			[
+				80000,
+				[
+					[
+						"Cinematics (With HUD)",
+						"1",
+						"90"
+					]
+				]
+			],
+			[
+				81875,
+				[
+					[
+						"lyrics",
+						"How",
+						"ff9901"
+					]
+				]
+			],
+			[
+				82000,
+				[
+					[
+						"lyrics",
+						"could",
+						"ff9901"
+					]
+				]
+			],
+			[
+				82125,
+				[
+					[
+						"lyrics",
+						"you",
+						"ff9901"
+					]
+				]
+			],
+			[
+				82375,
+				[
+					[
+						"lyrics",
+						"do",
+						"ff9901"
+					]
+				]
+			],
+			[
+				82625,
+				[
+					[
+						"lyrics",
+						"this",
+						"ff9901"
+					]
+				]
+			],
+			[
+				82875,
+				[
+					[
+						"lyrics",
+						"to",
+						"ff9901"
+					]
+				]
+			],
+			[
+				83125,
+				[
+					[
+						"lyrics",
+						"Leafy..?",
+						"5ee103"
+					]
+				]
+			],
+			[
+				85375,
+				[
+					[
+						"Change Scroll Speed",
+						"2",
+						"0.10"
+					]
+				]
+			],
+			[
+				86092.5925925926,
+				[
+					[
+						"lyrics",
+						"I",
+						"ff9901"
+					]
+				]
+			],
+			[
+				86370.3703703704,
+				[
+					[
+						"lyrics",
+						"WILL",
+						"ff9901"
+					]
+				]
+			],
+			[
+				86555.5555555556,
+				[
+					[
+						"lyrics",
+						"DEST",
+						"ff9901"
+					]
+				]
+			],
+			[
+				86833.3333333333,
+				[
+					[
+						"lyrics",
+						"ROY",
+						"ff9901"
+					]
+				]
+			],
+			[
+				87388.8888888889,
+				[
+					[
+						"Screen Shake",
+						"0.90, 0.05",
+						"0.90, 0.01"
+					],
+					[
+						"lyrics",
+						"YOU!!!",
+						"f6f915"
+					]
+				]
+			],
+			[
+				87944.4444444444,
+				[
+					[
+						"Cinematics (With HUD)",
+						"1",
+						"0"
+					]
+				]
+			],
+			[
+				88037.037037037,
+				[
+					[
+						"Change Character",
+						"bf",
+						"BF_Tormentor"
+					],
+					[
+						"Flash Camera",
+						"1",
+						""
+					],
+					[
+						"lyrics",
+						"",
+						""
+					],
+					[
+						"Toggle Trail",
+						"0",
+						"1"
+					],
+					[
+						"Change Character",
+						"dad",
+						"bf-pixel"
+					],
+					[
+						"arrowswap",
+						"b",
+						"0.5"
+					]
+				]
+			],
+			[
+				136925.925925926,
+				[
+					[
+						"Flash Camera",
+						"1",
+						""
+					],
+					[
+						"Change Character",
+						"dad",
+						"pico"
+					],
+					[
+						"Change Character",
+						"gf",
+						"dad"
+					]
+				]
+			],
+			[
+				162111.111111111,
+				[
+					[
+						"Change Character",
+						"bf",
+						"BF_Neuroses"
+					],
+					[
+						"Change Character",
+						"dad",
+						"spooky"
+					],
+					[
+						"Change Character",
+						"gf",
+						"tankman"
+					],
+					[
+						"Flash Camera",
+						"0.5",
+						""
+					],
+					[
+						"arrowswap",
+						"a",
+						"0.5"
+					]
+				]
+			],
+			[
+				185814.814814815,
+				[
+					[
+						"Change Character",
+						"gf",
+						"monster"
+					],
+					[
+						"Change Character",
+						"dad",
+						"mom"
+					],
+					[
+						"Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				211069.444444445,
+				[
+					[
+						"Change Scroll Speed",
+						"1.8",
+						"1"
+					],
+					[
+						"Flash Camera",
+						"1",
+						""
+					],
+					[
+						"Change Character",
+						"bf",
+						"BF_Neuroses_end"
+					],
+					[
+						"Change Character",
+						"dad",
+						"spirit"
+					],
+					[
+						"Change Character",
+						"gf",
+						"gf"
+					]
+				]
+			],
+			[
+				282129.62962963,
+				[
+					[
+						"lyrics",
+						"",
+						""
+					],
+					[
+						"Flash Camera",
+						"5",
+						""
+					],
+					[
+						"Change Character",
+						"gf",
+						"bf-sad"
+					],
+					[
+						"Change Character",
+						"dad",
+						"none"
+					],
+					[
+						"Change Character",
+						"bf",
+						"nonewithicon"
+					],
+					[
+						"Change Scroll Speed",
+						"1",
+						"1"
+					]
+				],
+				null,
+				""
+			],
+			[
+				343208.333333333,
+				[
+					[
+						"Flash Camera",
+						"5",
+						""
+					],
+					[
+						"Change Character",
+						"gf",
+						"bf-glitched"
+					]
+				]
+			]
+		]
+	}
+}

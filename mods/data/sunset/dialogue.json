@@ -1,0 +1,124 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "On a romantic friday night, Boyfriend and Girlfriend wander the carnival, searching for activities to do together.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "narrator"
+		},
+		{
+			"expression": "talk",
+			"text": "The loving pair then encounter a strange man...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "narrator"
+		},
+		{
+			"expression": "talk",
+			"text": "Bap!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Huh?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "kaidialogue"
+		},
+		{
+			"expression": "talk",
+			"text": "...Uh, hi?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "kaidialogue"
+		},
+		{
+			"expression": "pissed",
+			"text": "Bap skee ba do bai!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "What...?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "kaidialogue"
+		},
+		{
+			"expression": "talk",
+			"text": "He wants to rap battle you.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "The strange man looks at Girlfriend curiously.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "narrator"
+		},
+		{
+			"expression": "talk",
+			"text": "A rap battle? Really? I was just about to get some butter- and the guy's gone out to lunch, great.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "kaidialogue"
+		},
+		{
+			"expression": "pissed",
+			"text": "Boo ba de ba skee da boo!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Fine, fine. I'll play your dumb game. But after this, I'm out of here.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "kaidialogue"
+		},
+		{
+			"expression": "excited",
+			"text": "Beep!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Boyfriend gives a Microphone to the man.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "narrator"
+		},
+		{
+			"expression": "talk",
+			"text": "...Name's Kai, if you were wondering.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "kaidialogue"
+		}
+	]
+}
